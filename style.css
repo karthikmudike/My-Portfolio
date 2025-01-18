@@ -374,6 +374,7 @@ article {
   display: flex;
   width: 13rem;
   justify-content: space-around;
+  text-align: center;
   gap: 0.25rem;
 }
 
