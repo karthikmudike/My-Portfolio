@@ -71,6 +71,11 @@
   .contact-info-container {
     margin: 0;
   }
+  .contact-info-upper-container
+  {
+    flex-direction: column;
+    gap: 15px;
+  }
   .contact-info-container p,
   .nav-links li a {
     font-size: 1rem;
@@ -99,5 +104,10 @@
   }
   .text-container {
     text-align: justify;
+  }
+
+  .about-containers
+  {
+    flex-direction: column;
   }
 }
